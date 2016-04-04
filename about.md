@@ -7,11 +7,7 @@ permalink: /about/
 <img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
-Write your biography here. Tell the world about yourself. 
-
-Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them. 
-
-
+A lot of interesting questions pop up throughout the course of a day; this is a space to stash those thoughts and the stories that go with them.
 <br/>
 <hr/>
 <br/>
@@ -21,6 +17,5 @@ Link to your social media connections, too. This theme is set up to use <a href=
 </span>
 
 <div class="col three caption">
-	You can even add a little note about which of these is the best way to reach you.
 </div>
 
